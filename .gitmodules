@@ -1,6 +1,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/Rebel08/E-Com-Dashboard-Backend.git
-[submodule "FrontEnd/FrontEnd"]
-	path = FrontEnd/FrontEnd
+[submodule "FrontEnd"]
+	path = FrontEnd
 	url = https://github.com/Rebel08/E-Com-Dashboard-FrontEnd.git
