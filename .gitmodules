@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Rebel08/E-Com-Dashboard-Backend.git
